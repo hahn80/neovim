@@ -1,0 +1,5 @@
+vim.loader.enable()
+require('options')
+require('autocmds')
+require('autoloader')
+require('keymaps')
